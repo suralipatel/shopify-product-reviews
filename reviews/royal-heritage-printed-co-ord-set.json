@@ -6,12 +6,17 @@
   },
   {
     "name": "Neha",
-    "rating": 5,
+    "rating": 2,
     "review": "Looks premium and elegant."
   },
   {
     "name": "Anjali",
-    "rating": 5,
+    "rating": 2,
+    "review": "Perfect fitting and print quality."
+  },
+  {
+    "name": "Nishant",
+    "rating": 2,
     "review": "Perfect fitting and print quality."
   }
 ]
